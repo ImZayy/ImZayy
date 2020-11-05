@@ -1,4 +1,4 @@
-[![ImZayy](https://github.com/ImZayy/ImZayy/blob/main/images/github-banner.jpg?raw=true)](https://github.com/ImZayy/ImZayy)
+[![ImZayy](https://github.com/ImZayy/ImZayy/blob/main/images/github-banner.png?raw=true)](https://github.com/ImZayy/ImZayy)
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Zayy</p>
 <p align='center'>
