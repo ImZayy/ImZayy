@@ -1,8 +1,8 @@
-[![ImZayy](https://github.com/ImZayy/ImZayy/blob/main/images/github-banner.png?raw=true)](https://github.com/ImZayy/ImZayy)
+[![ImZayy](https://i.postimg.cc/6Q3Z96r7/github-banner.png)](https://github.com/ImZayy/ImZayy)
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>I'm Zayy</p>
 <p align='center'>
-<a href="https://instagram.com/im_zaayyy"><img height="30" src="https://github.com/ImZayy/ImZayy/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/im_zaayyy"><img height="30" src="https://i.postimg.cc/YqrCcnf0/images-73.jpg"></a>&nbsp;&nbsp;
 </p><br/>
 
 
